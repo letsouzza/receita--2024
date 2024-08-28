@@ -1,0 +1,29 @@
+html{
+    background-color: #fcdbab
+}
+p{
+    font-size: 40px;
+}
+h1{
+    text-align: center;
+    border: 1px solid black;
+    font-size: 70px;
+}
+h2{
+    color: brown;
+    font-size: 60px
+}
+h3{
+    font-size: 40px
+}
+h4{
+    text-align: center;
+    font-size: 25px
+}
+li{
+    font-size: 25px;
+}
+img{
+    margin-top: 20px;
+    width: 60%;
+}
