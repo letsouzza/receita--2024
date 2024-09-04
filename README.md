@@ -4,7 +4,7 @@
 
 ---
 ## Sobre
-Site para divulgar uma receita de brownie. O intuito desde projeto é colocar em prática o conhecimento adquirido sobre as linguagens de marcação, HTML, CSS e Markdown, no curso Técnico de Desenvolvimento de Sistemas do [SENAI JANDIRA](https://sp.senai.br/unidade/jandira/)
+Site para divulgar uma receita de brownie. O intuito deste projeto é colocar em prática o conhecimento adquirido sobre as linguagens de marcação, HTML, CSS e Markdown, no curso Técnico de Desenvolvimento de Sistemas do [SENAI JANDIRA](https://sp.senai.br/unidade/jandira/)
 
 ---
 ## Tecnologias utilizadas
